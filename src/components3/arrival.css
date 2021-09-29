@@ -1,0 +1,38 @@
+.arrivals{
+    font-family: sans-serif;
+    width: 100vw;
+    height: 900px;
+    margin-top: 0;
+}
+
+.arrivals-title{
+    padding-left: 200px;
+    padding-top: 150px;
+    font-weight: bolder;
+    font-size: 45px;
+    color: #0b1c39;
+}
+
+.arrivals-photo{
+    padding-left: 200px;
+    display: flex;
+    padding-top: 40px;
+}
+.arrival-img{
+    margin-left: 30px;
+    text-align: center;
+}
+.arrival-img1{
+    text-align: center;
+}
+
+.arrival-text{
+    color: #4a4a4b;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.arrival-price{
+    font-size: 17px;
+    color: #ff2020;
+}

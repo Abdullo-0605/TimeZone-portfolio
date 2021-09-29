@@ -1,0 +1,40 @@
+*{
+    font-family: sans-serif;
+}
+
+.bg-color{
+    width: 100vw;
+    height: 1034px;
+    background-color: rgb(231, 231, 231);
+    display: flex;
+    margin: auto;
+    padding-bottom: 0;
+}
+
+.title-start{
+    width: 1000px;
+    padding-left: 200px;
+    font-size: 95px;
+    font-weight: bolder;
+    color: #0b1c39;
+    padding-top: 200px;
+}
+
+.title-text{
+    padding-left: 200px;
+    width: 1000px;
+}
+
+.title-click{
+    padding-left: 200px;
+    padding-top: 70px;
+}
+
+.title-button{
+    color: white;
+    padding: 12px;
+    width: 150px;
+    font-size: 18px;
+    background-color: #4a4a4b;
+    border: none;
+}

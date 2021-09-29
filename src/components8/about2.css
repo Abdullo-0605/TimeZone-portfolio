@@ -1,0 +1,41 @@
+.about{
+    padding-top: 230px;
+}
+
+.about-start{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section2{
+    padding-right: 200px;
+}
+
+.about-title{
+    width: 440px;
+    font-weight: bolder;
+    font-size: 55px;
+    color: #0b1c39;
+}
+
+.about-text{
+    width: 440px;
+    margin: auto;
+    font-size: 17px;
+    color: #777777;
+}
+
+.about-button{
+    color: white;
+    padding: 25px;
+    width: fit-content;
+    font-weight: 600;
+    font-size: 17px;
+    background-color: #ff2020;
+    border: none;
+    margin-top: 50px;
+}
+
+.section1{
+    padding-left: 200px;
+}

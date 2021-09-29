@@ -1,0 +1,61 @@
+.shop{
+    padding-top: 230px;
+}
+
+.popular-head{
+    margin: auto;
+    text-align: center;
+}
+
+.popular-title{
+    font-weight: bolder;
+    font-size: 45px;
+    color: #0b1c39;
+}
+
+.popular-text{
+    margin: auto;
+    width: 700px;
+    color: #777777;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 200px;
+    padding-top: 80px;
+}
+
+.card1{
+    color: #4a4a4b;
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+}
+
+.card2{
+    padding-left: 30px;
+    color: #4a4a4b;
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+}
+
+.bg-card{
+    border-bottom: 3px solid #ff2020;
+}
+
+.shop-button{
+    color: white;
+    padding: 21px;
+    width: fit-content;
+    font-size: 17px;
+    background-color: #ff2020;
+    border: none;
+    margin-left: 650px;
+    margin-top: 120px;
+}
+
+.shop-price{
+    font-size: 17px;
+}

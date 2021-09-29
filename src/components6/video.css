@@ -1,0 +1,60 @@
+.video{
+    padding-top: 230px;
+}
+
+.video-bg{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../img/gallery/bg1.png);
+}
+
+.video-start{
+    padding-top: 50vh;
+}
+
+.play{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: none;
+    background-color: white;
+    margin: auto;
+    text-align: center;    
+}
+
+.play-button{
+    width: 65%;
+    height: 65%;
+    margin: auto;
+    padding-top: 26px;
+}
+
+.right-start{
+    padding-top: 146px;
+}
+
+.right{
+    width: 500px;
+    height: 156px;
+    background-image: url(../img/gallery/video.png);
+    color: white;
+}
+
+.right-section{
+    margin: auto;
+    width: 310px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 55px;
+}
+
+.right-div{
+    width: 28px;
+    justify-content: space-between;
+    padding-top: 23px;
+}
+
+.right-text{
+    font-size: 18px;
+    font-weight: 500;
+}
